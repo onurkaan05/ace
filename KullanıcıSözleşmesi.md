@@ -14,4 +14,6 @@
 
 7 - Takıma başvuran oyuncuları kurul değerlendiricektir ve ardından girip giremiyeceğine karar vericektir.
 
-8 - Bu sözleşmeyi ciddiye almayan hiçkimse takıma giremez ve takımda ise takımdan atılır.
+8 - Takıma yeni gelen üyeler en başta Çaylak ACE tagını alır.
+
+9 - Bu sözleşmeyi ciddiye almayan hiçkimse takıma giremez ve takımda ise takımdan atılır.
