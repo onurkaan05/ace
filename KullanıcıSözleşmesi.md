@@ -16,4 +16,6 @@
 
 8 - Takıma yeni gelen üyeler en başta Çaylak ACE tagını alır.
 
-9 - Bu sözleşmeyi ciddiye almayan hiçkimse takıma giremez ve takımda ise takımdan atılır.
+9 - As ACE Team tagını almak için gerekli koşullar Çaylak ACE üyelerine belirtilecektir.
+
+10 - Bu sözleşmeyi ciddiye almayan hiçkimse takıma giremez ve takımda ise takımdan atılır.
