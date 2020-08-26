@@ -12,4 +12,6 @@
 
 6 - İncelemede olan oyuncuyu bildiren oyuncu ve olaya dahil olan tüm herkes dürüst olmak zorundadır.
 
+7 - Takıma başvuran oyuncuları kurul değerlendiricektir ve ardından girip giremiyeceğine karar vericektir.
+
 7 - Bu sözleşmeyi ciddiye almayan hiçkimse takıma giremez ve takımda ise takımdan atılır.
