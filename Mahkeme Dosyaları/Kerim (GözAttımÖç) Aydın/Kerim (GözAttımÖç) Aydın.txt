@@ -1,4 +1,5 @@
 4 Eylül 2020 / 18:40 : 
+
 Yargıç = threepoision
 
 Davacı = onurkaan05 
@@ -14,4 +15,6 @@ Avukatlar =
 Log = 
 -4 Eylül 2020 18:40 = Dava açıldı
 -4 Eylül 2020 18:44 = Mahkemede toplanıldı ve dava başladı
+-4 Eylül 2020 18:49 = Delil yetersizliğinden dava kapanmıştır GözAttımÖç isimli kullanıcının mutesi kaldırılmıştır
+
 

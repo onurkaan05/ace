@@ -1,0 +1,4 @@
+-Dava dosyası txt olmak zorundadır
+-En az 2 adet yazılı , sesli veya görüntülü kanıt
+-Dava eden , dava edilen , ve dava eden kişinin avukatı
+Opsiyonel olarak birşeyler eklenebilir!
