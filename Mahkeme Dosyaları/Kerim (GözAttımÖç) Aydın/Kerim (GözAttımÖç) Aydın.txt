@@ -1,0 +1,17 @@
+4 Eylül 2020 / 18:40 : 
+Yargıç = threepoision
+
+Davacı = onurkaan05 
+
+Davalı = GözAttımÖç 
+
+Dava Sebebi = #genel-sohbet de bot komutu kullanma
+
+Avukatlar =
+-DVL Xavia
+-HyProxY
+
+Log = 
+-4 Eylül 2020 18:40 = Dava açıldı
+-4 Eylül 2020 18:44 = Mahkemede toplanıldı ve dava başladı
+
