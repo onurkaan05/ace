@@ -2,7 +2,7 @@
 
 1 - ACE Discord'unda ACE Team tagini alan herkes ACE Kullanıcı Sözleşmesini kabul etmiş sayılır.
 
-2 - ACE Team üyelerini yöneten bir kurul vardır, Kurul üyeleri Onur Kaan Ünlü (onurkaan05) ve Utku ALtıntaş (threepoision)'dur.
+2 - ACE Team üyelerini yöneten bir kurul vardır, Kurul üyeleri Onur Kaan Ünlü (onurkaan05) ve Utku Altıntaş (threepoision)'dur.
 
 3 - Tüm ACE Team üyeleri diğer oyuncuları bildirebilir.
 
